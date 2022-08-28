@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Revan!](https://bio.link/revanp)
 
 ### [Connect with me 💬](https://www.linkedin.com/in/revanpatil) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=revanpatil.RevanPatil)
