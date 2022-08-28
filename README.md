@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### [Connect with me 💬](https://www.linkedin.com/in/revanpatil) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=revanpatil.RevanPatil)
+
 <!--
 **revanpatil/RevanPatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
